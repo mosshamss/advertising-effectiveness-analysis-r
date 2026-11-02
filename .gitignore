@@ -1,0 +1,15 @@
+# RStudio and R session files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Downloaded data and generated artefacts
+advertising.csv
+*.Rout
