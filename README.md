@@ -87,3 +87,6 @@ R, RStudio, regression analysis, hypothesis testing, exploratory data analysis, 
 ## Data attribution
 
 Advertising dataset. [Kaggle, ashydv](https://www.kaggle.com/datasets/ashydv/advertising-dataset?resource=download). The CSV is not bundled with this repository.
+
+## Author
+Mohamed Hassanien
